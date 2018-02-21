@@ -1,0 +1,30 @@
+{
+  "name": "gulp-file-combiner",
+  "version": "0.1.0",
+  "description": "A simple, dumb and versatile file combiner for gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisbruzzi/gulp-file-combiner.git"
+  },
+  "keywords": [
+    "include",
+    "combine",
+    "merge",
+    "fusion",
+    "gulpplugin"
+  ],
+  "author": "jisbruzzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jisbruzzi/gulp-file-combiner/issues"
+  },
+  "homepage": "https://github.com/jisbruzzi/gulp-file-combiner#readme",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "vinyl": "^2.1.0"
+  }
+}
