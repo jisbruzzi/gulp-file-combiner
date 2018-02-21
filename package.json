@@ -1,6 +1,6 @@
 {
   "name": "gulp-file-combiner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple, dumb and versatile file combiner for gulp.",
   "main": "index.js",
   "scripts": {
